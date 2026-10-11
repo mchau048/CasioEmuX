@@ -1,4 +1,5 @@
 This is a fork of:
+- [CasioEmuX](https://github.com/mchau048/CasioEmuX) by mchau048, a fork of
 - [CasioEmuX](https://github.com/Xyzstk/CasioEmuX) by Xyzstk, a fork of
 - [CasioEmuX](https://github.com/qiufuyu123/CasioEmuX) by qiufuyu123, a fork of
 - [CasioEmu](https://github.com/gamingwithevets/CasioEmu) by Steveyboi/gamingwithevets, a fork of
